@@ -58,3 +58,12 @@ experimental-design-project/
 │   └── Expermental design project.xlsx
 │
 └── README.md
+```
+## Files
+
+- `experimental-design-project.R` — R code used to perform the statistical analysis.
+- `data/Expermental design project.xlsx` — Experimental dataset used for the analysis.
+
+## Author
+
+**Roaa Alharbi**
